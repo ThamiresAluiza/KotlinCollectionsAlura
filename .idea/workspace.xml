@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795f2125-777b-4621-a346-4e5757962048" name="Changes" comment="Array com BigDecimal">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/arrays/teste/funcoesBigDecimal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="795f2125-777b-4621-a346-4e5757962048" name="Changes" comment="Array com sorted, takeLast, toTypedArray">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/Livro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/ListaDeLivros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/livros.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/arrays/teste/SalarioComBigDecimal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/arrays/teste/SalarioComBigDecimal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -37,7 +37,6 @@
   <component name="ProjectId" id="2JocjPtvoFn2NnPRRzqO31RCWr1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -51,9 +50,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SalarioComBigDecimalKt">
+  <component name="RunManager" selected="Kotlin.ListaDeLivrosKt">
     <configuration name="IntroArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroArraysKt" />
+      <module name="KotlinCollectionsAlura.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaDeLivrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.listas.testes.ListaDeLivrosKt" />
       <module name="KotlinCollectionsAlura.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ListaDeLivrosKt" />
         <item itemvalue="Kotlin.SalarioComBigDecimalKt" />
         <item itemvalue="Kotlin.IntroArraysKt" />
       </list>
@@ -103,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672754194972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Array com sorted, takeLast, toTypedArray">
+      <created>1672836096513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672836096513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +135,8 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="First Commit test" />
     <MESSAGE value="Array com BigDecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array com BigDecimal" />
+    <MESSAGE value="Array com sorted, takeLast, toTypedArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array com sorted, takeLast, toTypedArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
