@@ -52,6 +52,7 @@ fun main () {
     livros.sortedBy { it.autor }.imprimeComMarcadores()
 
     val titulos : List<String> = listaDeLivros
+        .filterNotNull()
         .filter { it.autor.startsWith("J") }
         .sortedBy { it.anoPublicacao }
         .map { it.titulo }
@@ -59,10 +60,4 @@ fun main () {
     println(titulos)
 }
 
-fun List<Livro>.imprimeComMarcadores(){
-    val joinToString = this.joinToString(separator = "\n") {
-        "- ${it.titulo} de ${it.autor}"
-    }
 
-    println(" #### LISTA DE LIVROS #### \n$joinToString")
-}
