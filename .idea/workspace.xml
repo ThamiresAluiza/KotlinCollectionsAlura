@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795f2125-777b-4621-a346-4e5757962048" name="Changes" comment="Trabalhando com listas">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/FuncoesListaLivros.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/ListaComAtributosNulo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/ListaDeLivrosComNulos.kt" afterDir="false" />
+    <list default="true" id="795f2125-777b-4621-a346-4e5757962048" name="Changes" comment="Trabalhando com map">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/ListaDeLivros.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/ListaDeLivros.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/livros.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/listas/testes/livros.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/IntroArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/IntroArrays.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ListaDeLivrosComNulosKt">
+  <component name="RunManager" selected="Kotlin.IntroArraysKt">
     <configuration name="IntroArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroArraysKt" />
       <module name="KotlinCollectionsAlura.main" />
@@ -83,10 +79,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IntroArraysKt" />
         <item itemvalue="Kotlin.ListaDeLivrosComNulosKt" />
         <item itemvalue="Kotlin.ListaDeLivrosKt" />
         <item itemvalue="Kotlin.SalarioComBigDecimalKt" />
-        <item itemvalue="Kotlin.IntroArraysKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672839996575</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Trabalhando com listas nulas">
+      <created>1672934516995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672934516995</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +157,9 @@
     <MESSAGE value="Array com BigDecimal" />
     <MESSAGE value="Array com sorted, takeLast, toTypedArray" />
     <MESSAGE value="Trabalhando com listas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com listas" />
+    <MESSAGE value="Trabalhando com listas nulas" />
+    <MESSAGE value="Trabalhando com map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
